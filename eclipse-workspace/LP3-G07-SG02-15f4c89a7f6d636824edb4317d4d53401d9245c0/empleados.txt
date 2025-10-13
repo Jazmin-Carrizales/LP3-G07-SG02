@@ -1,0 +1,4 @@
+12345678, Liliana Garcia,Gerente,4500.00
+23456789, Estefanny Gómez,Analista,3200.00
+34567890,Ana Ponce,Asistente,2500.00
+45678901, Camil ,Técnica,2800.00
